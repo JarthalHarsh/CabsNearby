@@ -1,7 +1,9 @@
 // C++ code to find cabs nearby
-#include <bits/stdc++.h>
+#include <iostream>
+#include<fstream>
+#include<cmath>
+#include<string>
 using namespace std;
-  
 // Latitude of customer who needs a cab.
 #define lat1d 12.9611159
   
