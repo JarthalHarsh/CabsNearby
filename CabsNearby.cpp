@@ -1,5 +1,4 @@
-// C++ code to find cabs nearby
-#include <iostream>
+//Coded by jarthal
 #include<fstream>
 #include<cmath>
 #include<string>
